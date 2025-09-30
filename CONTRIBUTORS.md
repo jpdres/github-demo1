@@ -13,4 +13,4 @@ Please follow the format exactly to avoid merge conflicts.
 ---
 
 ## Entries
-1. JPD -jpdres
+1. 
